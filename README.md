@@ -19,6 +19,7 @@
    ```bash
    git clone [https://github.com/GitelGY/AlterChat.git](https://github.com/GitelGY/AlterChat.git)
    cd AlterChat
+   streamlit run app.py
 
 פרויקט זה פותח על ידי G.Goldberg, מתוך מטרה ליצור כלי AI נגיש, גמיש ומותאם אישית. 
 הפרויקט מבוסס על היכולות של Google Gemini API וממשק ה-Web של Streamlit.
